@@ -4,3 +4,5 @@ Olá! Bem vindo ao meu livro de receitas.
  - Pavê
  - Feijoada
  - Bolo de cenoura
+ - Bolo de chocolate
+
