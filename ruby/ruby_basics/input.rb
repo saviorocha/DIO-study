@@ -1,5 +1,5 @@
 puts "Digite seu nome: "
 
-nome = gets.chomp 
+nome = gets.chomp
 
 puts "Seu nome é #{nome}"

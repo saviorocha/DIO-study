@@ -27,5 +27,5 @@ p hash[:nome] = "Killua Zoldyck"
 
 # métodos úteis
 p hash.keys # retorna as chaves
-p hash.values # retorna os valore
+p hash.values # retorna os valores
 p hash.empty? # retorna se está ou não vazio

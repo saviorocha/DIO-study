@@ -8,7 +8,7 @@ lista = Array.new
 lista << "novo valor"
 lista.append(31)
 
-# acessando valroes da lista
+# acessando valores da lista
 p lista[0]
 p lista[lista.length - 1]
 
